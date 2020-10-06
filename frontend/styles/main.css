@@ -1,0 +1,57 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Assistant', sans-serif;
+  color: black;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+header {
+  padding: 180px 0 300px;
+  background-color: #CCCDF7;
+  margin-top: -70px;
+}
+
+header img {
+  max-height: 300px;
+}
+
+header h1, header p {
+  color: #000;
+}
+
+header h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 70px;
+}
+
+header p {
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+header .btn-lets-coffee {
+  background-color: #9980FA;
+  color: #fff;
+}
+
+header .btn-lets-coffee:hover {
+  background-color: #AB97FA;
+  color: #fff;
+}
+
+.section-services h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 50px;
+}
+
+.section-project-content {
+  background-color: #CCCDF7;
+}
+
+.name-project {
+  font-size: 30px;
+}
+/*# sourceMappingURL=main.css.map */

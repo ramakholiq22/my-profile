@@ -1,0 +1,62 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Assistant', sans-serif;
+    color: black;
+}
+
+//navbar
+.navbar-brand{
+    img{
+        max-height: 40px;
+    }
+}
+
+//header
+header{
+    padding: 180px 0 300px;
+    background-color: #CCCDF7;
+    margin-top: -70px;
+
+    img{
+        max-height: 300px;
+    }
+
+    h1,p{
+        color:#000;
+    }
+
+    h1{
+        font-family: 'Playfair Display', serif;
+        font-size: 70px;
+    }
+    p{
+        font-size: 30px;
+        font-weight: lighter;
+    }
+
+    .btn-lets-coffee{
+        background-color: #9980FA;
+        color: #fff;
+
+        &:hover{
+            background-color: #AB97FA;
+            color: #fff; 
+        }
+    }
+}
+
+//services
+.section-services{
+    h2{
+        font-family: 'Playfair Display', serif;
+        font-size: 50px;
+    }
+}
+
+//project
+.section-project-content{
+    background-color: #CCCDF7;
+}
+.name-project{
+    font-size: 30px;
+}
